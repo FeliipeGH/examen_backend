@@ -8,6 +8,8 @@
 
 3- Ejecutar el proyecto
 
+El proyecto utiliza el patrón MVC
+
 **Nota**
 Para ingresar a la base de datos de h2
 Ingresar con la bd: jdbc:h2:mem:testdb
