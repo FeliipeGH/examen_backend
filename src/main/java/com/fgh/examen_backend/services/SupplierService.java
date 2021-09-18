@@ -12,7 +12,7 @@ import java.util.List;
 
 @Service
 public class SupplierService {
-    final int MAX_LIST_SIZE_IN_REQUEST = 6;
+    final int MAX_LIST_SIZE_IN_REQUEST = 15;
     @Autowired
     private SupplierRepository supplierRepository;
 
